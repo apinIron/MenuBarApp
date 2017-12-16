@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MenuBar">
+        <attr name="bar_selectedColor" format="color"/>
+        <attr name="bar_notSelectedColor" format="color"/>
+        <attr name="bar_textSize" format="dimension"/>
+    </declare-styleable>
+
+</resources>
