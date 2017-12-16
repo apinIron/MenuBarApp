@@ -1,5 +1,8 @@
 # MenuBarApp
 
+### 效果
+
+![](https://github.com/apinIron/MenuBarApp/blob/master/effect.png)
 
 ### 如何使用
 
